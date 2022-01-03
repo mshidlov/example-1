@@ -1,0 +1,2 @@
+class SegalUpdateInput {}
+export { SegalUpdateInput };

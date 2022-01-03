@@ -1,0 +1,2 @@
+class SegalCreateInput {}
+export { SegalCreateInput };
