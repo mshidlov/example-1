@@ -1,0 +1,2 @@
+class ShmulikUpdateInput {}
+export { ShmulikUpdateInput };

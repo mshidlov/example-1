@@ -1,0 +1,2 @@
+class ShmulikCreateInput {}
+export { ShmulikCreateInput };
